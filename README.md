@@ -1,2 +1,2 @@
 # Data-Mining
-### Solar Energy Production Analysis
+Solar Energy Production Analysis
